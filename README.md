@@ -31,7 +31,8 @@ df=pd.read_csv("SAMPLEIDS.csv")
 df
 ```
 
-![image](https://github.com/user-attachments/assets/2b0c2d4c-d811-4b81-9455-fe855853e2d9)
+![image](https://github.com/user-attachments/assets/61f05e65-82c6-4ab6-bb29-b9d7c612e353)
+
 
 df.isnull().sum()
 
